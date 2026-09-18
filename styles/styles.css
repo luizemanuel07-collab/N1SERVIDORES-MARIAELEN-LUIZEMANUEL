@@ -1,0 +1,84 @@
+
+/**/
+body{
+    background-color: rgb(243, 197, 197);
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+
+}    
+
+h1{
+    text-align: center;
+}
+
+
+p{
+    font-weight: bold
+}    
+
+
+    img{
+        border-radius: 20px;
+        width: 200px;
+        height: 200px;
+}
+
+
+a{
+    text-decoration:none;
+}
+
+
+h3{
+    text-decoration: underline;
+}
+
+
+mark{
+    background-color: rgb(163, 61, 61);
+}
+
+
+button{
+    background-color: rgb(224, 58, 58);
+    color: rgb(236, 133, 133);
+}
+
+
+button:hover{
+    background-color:rgb(250, 96, 96);
+    color:antiquewhite;
+    cursor: pointer;
+}
+
+
+header{
+    background-color: bisque;
+}
+
+main{
+    background-color: rgb(224, 157, 157);
+}
+
+footer{
+    background-color: brown;
+}
+*/
+
+#menu{
+    background-color: rgb(255, 221, 221);}
+
+
+    nav ul{ 
+        display: flex;
+        list-style: none;
+        grap: 20px;
+        padding: 0%;
+        justify-content: center;
+    }
+
+    a{
+        text-decoration:none;
+        
+    }
